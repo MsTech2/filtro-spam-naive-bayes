@@ -1,4 +1,4 @@
-#🛡️ Detector de Spam com Inteligência Artificial - Naive Bayes
+🛡️ Detector de Spam com Inteligência Artificial - Naive Bayes
 
 Para este projeto utilizei o algoritmo **Naive Bayes** para classificar mensagens de texto como "SPAM" ou "Mensagem Real". 
 Exemplo prático de como a Inteligência Artificial pode ser usada para filtrar comunicações indesejadas com base em padrões de palavras.
