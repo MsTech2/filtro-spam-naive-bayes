@@ -91,3 +91,7 @@ prever_mensagem(mensagem_do_usuario)Aperte o botão de Play (ou Ctrl + Enter) e 
 - Pandas: Para organização dos dados.
 
 - Scikit-Learn: Para a criação do modelo de Machine Learning (Naive Bayes).
+
+---
+
+**🎓 Este projeto foi desenvolvido como parte dos meus estudos na Faculdade de Ciência de Dados com enfase em IA.
