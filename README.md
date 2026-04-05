@@ -92,6 +92,8 @@ prever_mensagem(mensagem_do_usuario)Aperte o botão de Play (ou Ctrl + Enter) e 
 
 - Scikit-Learn: Para a criação do modelo de Machine Learning (Naive Bayes).
 
+- Google Colab / Jupyter Notebook: Ambientes de desenvolvimento interativos utilizados para prototipagem e execução do código.
+
 ---
 
-**🎓 Este projeto foi desenvolvido como parte dos meus estudos na Faculdade de Ciência de Dados com enfase em IA.
+**🎓 Este projeto foi desenvolvido por mim como parte dos meus estudos na Faculdade de Ciência de Dados com enfase em IA.
