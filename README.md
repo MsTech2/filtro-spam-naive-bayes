@@ -79,4 +79,15 @@ prever_mensagem("GANHE DINHEIRO AGORA CLIQUE NO LINK") # Esta deve dar SPAM
 
 # Espaço para o usuário visitante digitar
 mensagem_do_usuario = input("Digite a mensagem para testar: ")
-prever_mensagem(mensagem_do_usuario)
+prever_mensagem(mensagem_do_usuario)Aperte o botão de Play (ou Ctrl + Enter) e digite sua própria frase!
+```
+4. Aperte o botão de Play (ou Ctrl + Enter) e digite sua própria frase!
+
+---
+
+🛠️ Tecnologias Utilizadas
+- Python 3
+
+- Pandas: Para organização dos dados.
+
+- Scikit-Learn: Para a criação do modelo de Machine Learning (Naive Bayes).
