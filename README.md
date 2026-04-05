@@ -85,7 +85,7 @@ prever_mensagem(mensagem_do_usuario)Aperte o botão de Play (ou Ctrl + Enter) e 
 
 ---
 
-🛠️ Tecnologias Utilizadas
+🛠️ Feito com
 - Python 3
 
 - Pandas: Para organização dos dados.
